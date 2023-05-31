@@ -7,14 +7,11 @@ The kasradorkscaner tool is a security tool used to search for Google dorks with
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 
-Installation
-
+## Instalations
 
 $ apt install git python
 $ https://github.com/kasraone/kasradorkscaner
-$ cd Dolkings
+$ cd kasradorkscaner
 $ pip install -r requirements.txt
 $ python kasradorkscaner.py
-
-
 
