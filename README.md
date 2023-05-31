@@ -17,7 +17,7 @@ Designed by team: kasraone
 $ apt install git python
 
 
-$ https://github.com/kasraone/kasradorkscaner
+$git clone https://github.com/kasraone/kasradorkscaner
 
 
 $ cd kasradorkscaner
