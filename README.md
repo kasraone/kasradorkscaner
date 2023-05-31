@@ -26,3 +26,19 @@ $ python kasradorkscaner.py
 
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+⚠️ Removal of responsibility ⚠️
+
+Note, friends, this tool is designed and released for educational purposes only
+
+And using any tools for penetration testing or attacks on other sites and systems without the permission of the users of that site is illegal and may cause legal crimes.
+
+Please note that any illegal use of Kasradorkscaner will be the responsibility of the user. Also, before any penetration testing, consider challenging presence in response to visible attacks
+
+This tool is published based on the MIT version
+
+
+Therefore, it is recommended that you familiarize yourself with the laws and regulations related to the security of sites and networks before using any penetration testing tool and, if necessary, consult with security experts.
+
+
